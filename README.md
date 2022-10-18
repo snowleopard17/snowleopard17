@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.newyorker.com/photos/5c756f11d87bdc59781935e0/master/w_2560%2Cc_limit/170403-mukherjee-hero.gif" width="300" height="200"/>
+</div>
 
-<!--
-**snowleopard17/snowleopard17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=snowleopard17&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="header" align="center">
+.♾️.NEW GODS WILL ARRIVE TODAY.♾️.
+</div>
+---
+### :man_technologist: About Me :
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some bad code.
+- 🌱 I’m currently learning system optimizations and design.
+- 📫 How to reach me: adityalohuni@gmail

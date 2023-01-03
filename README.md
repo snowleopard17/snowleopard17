@@ -11,6 +11,4 @@
 ---
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working with some bad code.
-- 🌱 I’m currently learning system optimizations and design.
-- 📫 How to reach me: adityalohuni@gmail
+Why you interested bitch?
